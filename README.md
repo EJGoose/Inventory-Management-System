@@ -5,7 +5,7 @@ This simple Inventory Management System uses various types of PHP loops to simul
 
 ### This Project Explores
 - PHP Loops
-    - inlcuding the do-while loop
+    - including the do-while loop
     - for loop
     - and foreach loop
 - Reusable functions for displaying page components
